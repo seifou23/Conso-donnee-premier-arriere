@@ -1,0 +1,107 @@
+[
+  {
+    "categorie": "Jour 1",
+    "values": [
+      {
+        "value": 1258.532194,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 30053.69781,
+        "rate": "Premier plan (activé)"
+      },
+      {
+        "value": 39108.39344,
+        "rate": "Premier plan (désactivé)"
+      },
+      {
+        "value": 6.336305556,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Jour 2",
+    "values": [
+      {
+        "value": 647.2151889,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 34959.75088,
+        "rate": "Premier plan (activé)"
+      },
+      {
+        "value": 40775.87039,
+        "rate": "Premier plan (désactivé)"
+      },
+      {
+        "value": 4.237025,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Jour 3",
+    "values": [
+      {
+        "value": 379.9943167,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 12543.99773,
+        "rate": "Premier plan (activé)"
+      },
+      {
+        "value": 29389.63694,
+        "rate": "Premier plan (désactivé)"
+      },
+      {
+        "value": 6.259183333,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Jour 4",
+    "values": [
+      {
+        "value": 436.9300556,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 15724.44426,
+        "rate": "Premier plan (activé)"
+      },
+      {
+        "value": 23928.68339,
+        "rate": "Premier plan (désactivé)"
+      },
+      {
+        "value": 120.212625,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Jour 5",
+    "values": [
+      {
+        "value": 296.6967,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 19682.10306,
+        "rate": "Premier plan (activé)"
+      },
+      {
+        "value": 21884.54997,
+        "rate": "Premier plan (désactivé)"
+      },
+      {
+        "value": 262.303444,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  }
+]

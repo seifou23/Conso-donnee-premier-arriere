@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b6ced8d-be52-491c-9328-e171e58d59cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WTmTK8eZVw6pgDqC0JrIQwgedt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../codeSourceProjet/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b6ced8d-be52-491c-9328-e171e58d59cb" name="Default Changelist" comment="" />
+      <created>1579181964072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579181964072</updated>
+      <workItem from="1579181965605" duration="2518000" />
+      <workItem from="1579187624229" duration="707000" />
+      <workItem from="1579190063522" duration="7283000" />
+      <workItem from="1579198601689" duration="12344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="202" width="636" height="712" key="FileChooserDialogImpl" timestamp="1579215851256">
+      <screen x="79" y="38" width="1841" height="1042" />
+    </state>
+    <state x="676" y="202" width="636" height="712" key="FileChooserDialogImpl/79.38.1841.1042@79.38.1841.1042" timestamp="1579215851256" />
+    <state x="495" y="247" key="run.anything.popup" timestamp="1579183108651">
+      <screen x="79" y="38" width="1841" height="1042" />
+    </state>
+    <state x="495" y="247" key="run.anything.popup/79.38.1841.1042@79.38.1841.1042" timestamp="1579183108651" />
+  </component>
+</project>
