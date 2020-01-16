@@ -12,7 +12,7 @@ statements of data consumption for several applications. So we highlight the app
 that consume the most both in the foreground and in the background and the results hold
 some surprises ...
 
-# Comment limiter notre consommation de données
+# Comment limiter notre consommation de données?
 
 Comment profiter pleinement des potentialités de votre smartphone tout en limitant la
 consommation de données mobiles de votre forfait data ?
