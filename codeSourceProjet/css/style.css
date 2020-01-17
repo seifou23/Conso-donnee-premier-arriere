@@ -222,6 +222,56 @@ header .intro-text {
 	line-height: 24px;
 	margin: 15px 0 30px;
 }
+
+/*about2*/
+  #about2 {
+	  padding: 120px 0;
+	  padding-top: 20px;
+  }
+#about2 h3 {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#about2 .about-text {
+	margin-left: 10px;
+	margin-top: 20px;
+}
+#about2 img {
+	display: inline-block;
+	border-radius: 100px 0 100px 0;
+	box-shadow: -15px 0 #a7c44c;
+}
+#about2 p {
+	line-height: 24px;
+	margin: 15px 0 30px;
+}
+
+/* about*/
+#about3 {
+	padding: 120px 0;
+	background: #f6f6f6;
+	padding-top: 20px;
+
+}
+#about3 h3 {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#about3 .about-text {
+	margin-left: 10px;
+	margin-top: 20px;
+}
+#about3 img {
+	display: inline-block;
+	border-radius: 100px 0 100px 0;
+	box-shadow: -15px 0 #a7c44c;
+}
+#about3 p {
+	line-height: 24px;
+	margin: 15px 0 30px;
+}
+
+
 /* Services Section */
 #services {
 	padding: 120px 0;
